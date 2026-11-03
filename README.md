@@ -4,4 +4,4 @@
 
 - [Видение продукта](./docs/01-planning/vision.md)
 - [Карта пользовательских историй](./docs/01-planning/story-map.png)
-- [Backlog](./docs/01-planning/backlog.md)
+- [Backlog](./docs/01-planning/backlog.md) и [критерии приёмки](./docs/01-planning/acceptance-criteria.md)
