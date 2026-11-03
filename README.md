@@ -8,3 +8,4 @@
 - [Оценка трудоемкости](./docs/01-planning/estimates.md)
 - [Приоритизация](./docs/01-planning/prioritization.md)
 - [Сетевой график](./docs/01-planning/network-graph.png) и [прогноз](./docs/01-planning/release-plan.md)
+- [Описание процесса](./docs/01-planning/process.md) и [рабочее соглашение](./docs/01-planning/team-agreement.md)
